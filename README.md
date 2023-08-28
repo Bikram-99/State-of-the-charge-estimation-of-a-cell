@@ -1,1 +1,1 @@
-# State-of-the-charge-estimation-of-a-cell
+this file is related to battery management system
